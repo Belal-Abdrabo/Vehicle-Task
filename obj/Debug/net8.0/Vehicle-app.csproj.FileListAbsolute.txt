@@ -1,0 +1,14 @@
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\bin\Debug\net8.0\Vehicle-app.exe
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\bin\Debug\net8.0\Vehicle-app.deps.json
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\bin\Debug\net8.0\Vehicle-app.runtimeconfig.json
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\bin\Debug\net8.0\Vehicle-app.dll
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\bin\Debug\net8.0\Vehicle-app.pdb
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.GeneratedMSBuildEditorConfig.editorconfig
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.AssemblyInfoInputs.cache
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.AssemblyInfo.cs
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.csproj.CoreCompileInputs.cache
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.dll
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\refint\Vehicle-app.dll
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.pdb
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\Vehicle-app.genruntimeconfig.cache
+E:\ME\vehicle task\New folder\Vehicle-app\Vehicle-app\obj\Debug\net8.0\ref\Vehicle-app.dll
